@@ -7,6 +7,9 @@
 
 ## About me
 
+
+<!-- TO DO: add more details about me later -->
+
 Hola, soy ValentinOviedo
 
 
@@ -20,3 +23,7 @@ Hola, soy ValentinOviedo
 |     3| SQL       |
 
 </details>
+
+
+---
+> If we pull together and commit ourselves, then we can push through anything.
