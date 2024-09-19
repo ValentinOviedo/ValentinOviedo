@@ -14,16 +14,16 @@ Hola, soy ValentinOviedo
 
 
 <details>
-<summary>My top languages</summary>
+<summary>Mis aficiones</summary>
 
 | Rank | Languages |
 |-----:|-----------|
-|     1| JavaScript|
-|     2| Python    |
-|     3| SQL       |
+|     1| Caza|
+|     2| Pesca    |
+|     3| Agricultura       |
 
 </details>
 
 
 ---
-> If we pull together and commit ourselves, then we can push through anything.
+> Si nos unimos y nos comprometemos, podremos superar cualquier cosa.
