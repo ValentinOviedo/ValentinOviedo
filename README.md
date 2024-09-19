@@ -16,7 +16,7 @@ Hola, soy ValentinOviedo
 <details>
 <summary>Mis aficiones</summary>
 
-| Rank | Languages |
+| Rank | Aficiones |
 |-----:|-----------|
 |     1| Caza|
 |     2| Pesca    |
